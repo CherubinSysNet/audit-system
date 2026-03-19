@@ -47,7 +47,7 @@ Script d'audit système complet pour Windows qui collecte des informations déta
 
 
 
-<img width="1351" height="676" alt="audit2" src="https://github.com/user-attachments/assets/95d6860d-61c3-42ff-b85c-c29140b036fd" />
-<img width="1346" height="676" alt="audit1" src="https://github.com/user-attachments/assets/7c5905c7-a523-469e-8e88-d7c8f8fbfba3" />
+<img width="1351" height="676" alt="audit2" src="https://github.com/user-attachments/assets/95d6860d-61c3-42ff-b85c-c29140b036fd" /><br />
+<img width="1346" height="676" alt="audit1" src="https://github.com/user-attachments/assets/7c5905c7-a523-469e-8e88-d7c8f8fbfba3" /><br />
 <img width="1348" height="676" alt="audit" src="https://github.com/user-attachments/assets/dfeb6632-27dc-43c8-9b1c-6f98a305a671" />
 
